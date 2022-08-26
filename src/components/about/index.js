@@ -4,6 +4,7 @@ import {AiOutlineMenu,AiOutlineBell} from 'react-icons/ai'
 import {BsCart2} from 'react-icons/bs'
 
 import Page1 from '../page1'
+import Page2 from '../page2'
 
 
 class About extends Component{
@@ -22,6 +23,7 @@ class About extends Component{
                         </div>
                 </div>
                 <Page1/>
+                <Page2/>
             </div>
         )
     }
