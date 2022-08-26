@@ -3,6 +3,8 @@ import './index.css'
 import {AiOutlineMenu,AiOutlineBell} from 'react-icons/ai'
 import {BsCart2} from 'react-icons/bs'
 
+import Page1 from '../page1'
+
 
 class About extends Component{
     render(){
@@ -19,6 +21,7 @@ class About extends Component{
                             <AiOutlineBell className="nav-items1"/>
                         </div>
                 </div>
+                <Page1/>
             </div>
         )
     }
