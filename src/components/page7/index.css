@@ -1,0 +1,61 @@
+.page7-para{
+   padding-top: 37px;
+    text-align: left;
+}
+.pms{
+    width: 100vw;
+    margin-top: 20px;
+}
+.page7{
+    background: #F66E6E;
+}
+.create-button{
+    padding: 15px;
+    background: #000000;
+    border-radius: 27px;
+    border: 0px;
+    width: 287px;
+height: 43px;   
+margin-bottom: 39px;
+}
+.create-button-content{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+   margin-left: 20px;
+   margin-right: 10px;
+
+/* identical to box height, or 29px */
+
+color: #FFFFFF;
+
+}
+.h71{
+    font-family: 'Reptile';
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 134.8%;
+padding-left: 33px;
+/* or 43px */
+
+color: rgba(255, 255, 255, 0.8);
+}
+.p71{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 206.5%;
+
+/* or 29px */
+
+color: rgba(255, 255, 255, 0.8);
+padding: 33.5px;
+padding-top: 20px;
+
+}

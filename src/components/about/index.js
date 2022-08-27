@@ -8,7 +8,8 @@ import Page2 from '../page2'
 import Page3 from '../page3'
 import Page4 from '../page4'
 import Page5 from '../page5'
-import Page6 from "../page6";
+import Page6 from "../page6"
+import Page7 from "../page7";
 
 
 class About extends Component{
@@ -32,6 +33,7 @@ class About extends Component{
                 <Page4/>
                 <Page5/>
                 <Page6/>
+                <Page7/>
             </div>
         )
     }
