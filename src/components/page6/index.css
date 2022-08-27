@@ -1,0 +1,58 @@
+.page6-para{
+    padding: 27px
+   
+    
+}
+.page6{
+    background-image: linear-gradient(#E4E3E8,#f1eff6);
+}
+.get-button{
+    
+background: linear-gradient(288.62deg, #6E8CF6 42.36%, rgba(110, 213, 246, 0.93) 115.74%);
+box-shadow: 0px 2px 16px rgba(71, 222, 255, 0.33);
+border-radius: 70px;
+    width: 315px;
+    height: 66px;
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 19.8605px;
+line-height: 30px;
+
+/* identical to box height */
+text-align: center;
+
+color: #FFFFFF;
+    margin-bottom: 10px;
+}
+.doctor{
+    width: 100vw;
+height: 250px;
+}
+.h61{
+    font-family: 'Reptile';
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 134.8%;
+
+/* or 43px */
+
+color: #000000;
+
+text-align: left;
+}
+.p61{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 206.5%;
+
+/* or 29px */
+
+color: rgba(0, 0, 0, 0.8);
+
+margin-top: 22px;
+text-align: left;
+}
