@@ -13,9 +13,9 @@
     text-align: left;
 }
 .follow-div{
-    display: flex;
+   
     
-    justify-content: end;
+   text-align: right;
 }
 .follow-icon{
     height: 50px;
