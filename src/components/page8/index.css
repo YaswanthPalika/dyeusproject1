@@ -1,0 +1,76 @@
+.page8-card1{
+    padding: 20px;
+    font-size: 35px;
+    text-align: left;
+    background: linear-gradient(180deg, #FFF6FB 0%, #E7F6FC 100%);
+}
+.page8-card2{
+    background-color: black;
+    color: white;
+    padding: 30px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: left;
+}
+.follow-div{
+    display: flex;
+    
+    justify-content: end;
+}
+.follow-icon{
+    height: 50px;
+    width: 25px;
+    padding-left: 15px;
+}
+.subscribe-p{
+    font-size: small;
+}
+.email-input{
+    display: flex;
+    justify-content: space-around;
+    padding-top:10px ;
+}
+.email-input-box{
+    width: 55vw;
+    height: 30px;
+    box-sizing: border-box;
+    margin-right: 5px;
+    background: rgba(255, 255, 255, 0.62);
+border: 1px solid #E7F6FC;
+border-radius: 4px;
+}
+.activate-button{
+    font-size: 12px;
+    width: 85px;
+height: 27.48px;
+box-sizing: border-box;
+    background: #D6F4FB;
+border: 1.2782px solid #E9F4FF;
+border-radius: 17.2556px;
+}
+.p81{
+    font-family: 'Reptile';
+font-style: normal;
+font-weight: 500;
+font-size: 33px;
+line-height: 134.8%;
+
+/* or 44px */
+
+color: rgba(0, 0, 0, 0.8);
+padding-top: 73px;
+padding-bottom: 20px;
+
+}
+.p82{
+    
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 206.5%;
+
+/* identical to box height, or 29px */
+
+color: #FFFFFF;
+}
